@@ -6,7 +6,7 @@ Generates the mediainfo of a file or all video files in a given directory and up
 - [pbwrap](https://github.com/Mikts/pbwrap) - Pastebin API wrapper for Python. Do `pip install pbwrap` to install.
 
 # Usage
-Add your pastebin credentials and API key in [`mediainfopaste.py`](https://github.com/Ravencentric/MediaInfo-Paste/blob/main/mediainfopaste.py#L9-L14) before using it.
+Add your pastebin credentials and API key in [`mediainfopaste.py`](https://github.com/Ravencentric/MediaInfo-Paste/blob/main/mediainfopaste.py#L8-L13) before using it.
 
 ```
 > mediainfopaste.py --help
